@@ -1,36 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fiqri Pramudya
-======================================================================================================================================
 
-Web Developer
--------------
+![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues)
 
-I Love Code!!
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/tmangowal/)
+[![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/voidfnc)
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCA_gvQ2y7RqycyqWKu7cq-g)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/theodevoid/)
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [fiqripramudya01@gmail.com](mailto:fiqripramudya01@gmail.com)
-* 🧠  I'm learning Next JS, Laravel
-* ⚡  I done have cat
+Hello there 👋,
 
-### Skills
+I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for teaching and creating content to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+Here's a list of my tech stack and skills:
 
 
-### Socials
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 
-<p align="left"> <a href="https://www.github.com/fiqriPram" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/adytm__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/adytm__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fiqriPram"><img src="https://github-readme-stats.vercel.app/api?username=fiqriPram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fiqriPram's GitHub stats" /></a>
-
-<a href="http://www.github.com/fiqriPram"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqriPram&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/fiqriPram"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fiqriPram&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/fiqriPram" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqriPram&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---

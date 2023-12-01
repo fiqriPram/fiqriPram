@@ -16,4 +16,3 @@ Here's a list of my tech stack and skills:
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 
----

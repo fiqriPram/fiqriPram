@@ -1,9 +1,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues)
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/tmangowal/)
-[![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/voidfnc)
-[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCA_gvQ2y7RqycyqWKu7cq-g)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/theodevoid/)
 
 Hello there 👋,

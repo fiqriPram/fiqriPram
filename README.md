@@ -2,7 +2,7 @@
 ![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=fiqriPram&hide=contribs,prs,issues)
 
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/adytm__/)
-[![Dev.to](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-64.png)](https://dev.to/adytm__)
+[![Dev](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-64.png)](https://dev.to/adytm__)
 
 ❤️
 

@@ -1,8 +1,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=fiqriPram&hide=contribs,prs,issues)
 
-[Instagram](https://www.instagram.com/adytm__/)
-
 
 ❤️
 

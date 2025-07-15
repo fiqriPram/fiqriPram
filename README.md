@@ -2,10 +2,6 @@
 ![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=fiqriPram&hide=contribs,prs,issues)
 
 
-❤️
-
----
-
 Here's a list of my tech stack and skills:
 
 
